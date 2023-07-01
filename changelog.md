@@ -295,7 +295,7 @@
 * NEW! structural lattice construction kit
 * some parts now come in a larger sizes
 * better colliders for parts that had bad colliders (like the cockpit and the tail boom)
-* depricated arrrghohn, all hall thrusters and mpd engines now use xenon
+* depreciated arrrghohn, all hall thrusters and mpd engines now use xenon
 * resized fuel tanks to more strict specifications to make them compatible with the new lattice elements
 * rebalenced some parts (mono tank is a lot less useless now)
 * atmospheric vtol engine can now be throttled more quickly
